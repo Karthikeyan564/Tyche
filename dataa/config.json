@@ -1,0 +1,11 @@
+{
+	"interval": 15.0,
+	"seed": 1,
+	"dir": "/home/karthikeyan/gog/see/dataa/",
+	"roadnetFile": "roadnet.json",
+	"flowFile": "flow.json",
+	"rlTrafficLight": true,
+	"saveReplay": true,
+	"roadnetLogFile": "roadnetlog.json",
+	"replayLogFile": "replay.txt"
+}
