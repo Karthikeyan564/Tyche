@@ -1,8 +1,9 @@
 # Tyche
 ### Adaptive traffic control
 
-![N|Solid](./assets/demo.gif)
+![demogif](./assets/demo.gif)
 
+![plot](./assets/demo.png)
 ## Dependencies
 
 - [Cityflow](https://github.com/cityflow-project/CityFlow)
