@@ -11,6 +11,5 @@
 
 ## Run
 ```
-source fn/bin/activate
 python3 summ.py
 ```
